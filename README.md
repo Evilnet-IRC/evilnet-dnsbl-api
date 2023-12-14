@@ -44,6 +44,23 @@ evilnet contact|c
 evilnet doc|d
 ```
 
+
+```
+Usage: evilnet search <ipaddress>
+
+Options:
+  -V, --version         output the version number
+  -h, --help            display help for command
+
+Commands:
+  search|s <ipaddress>  Search for IP Address in the EvilNET RBL
+  web|w                 IP Seach Web Form
+  request|r             Request Removal Web Form
+  contact|c             Contact US Web Form
+  doc|d                 API DOC
+  help [command]        display help for command
+```
+
 **RBL Search List. Validated IPv4 System.**
 
 # NPM
