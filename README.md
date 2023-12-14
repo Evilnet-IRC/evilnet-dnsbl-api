@@ -51,3 +51,5 @@ evilnet doc|d
 ```
 npm i evilnet-rbl-api
 ```
+
+https://www.npmjs.com/package/evilnet-rbl-api
