@@ -45,3 +45,9 @@ evilnet doc|d
 ```
 
 **RBL Search List. Validated IPv4 System.**
+
+# NPM
+
+```
+npm i evilnet-rbl-api
+```
