@@ -70,3 +70,7 @@ npm i evilnet-rbl-api
 ```
 
 https://www.npmjs.com/package/evilnet-rbl-api
+
+```
+var evilnet = require('evilnet-rbl-api');
+```
