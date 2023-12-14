@@ -1,0 +1,27 @@
+{
+  "name": "evilnet-rbl-api",
+  "version": "1.0.0",
+  "description": "EvilNET DNSBL API - Fast search in a RBL System for match evil ip. - Cli Commmand",
+  "main": "./bin/rbl.js",
+  "scripts": {
+    "shell": ""
+  },
+  "bin": {
+    "evilnet": "bin/rbl.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evilnet-IRC/evilnet-dnsbl-api.git"
+  },
+  "author": "y2k/unixfool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evilnet-IRC/evilnet-dnsbl-api/issues"
+  },
+  "homepage": "https://github.com/Evilnet-IRC/evilnet-dnsbl-api#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "colors": "^1.4.0",
+    "commander": "^11.1.0"
+  }
+}
